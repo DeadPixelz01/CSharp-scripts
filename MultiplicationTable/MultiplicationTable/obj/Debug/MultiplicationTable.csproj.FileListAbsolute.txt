@@ -1,0 +1,10 @@
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.FrmMultiTables.resources
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.Properties.Resources.resources
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.GenerateResource.Cache
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+F:\WS6Programs\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

@@ -1,0 +1,20 @@
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\bin\Debug\CalAverage.exe.config
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\bin\Debug\CalAverage.exe
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\bin\Debug\CalAverage.pdb
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.csprojResolveAssemblyReference.cache
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.FrmCalAverage.resources
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.Properties.Resources.resources
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.csproj.GenerateResource.Cache
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.csproj.CoreCompileInputs.cache
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.exe
+C:\Users\SMI0074\AppData\Local\Temporary Projects\CalAverage\obj\Debug\CalAverage.pdb
+F:\WS6Programs\CalAverage\CalAverage\bin\Debug\CalAverage.exe.config
+F:\WS6Programs\CalAverage\CalAverage\bin\Debug\CalAverage.exe
+F:\WS6Programs\CalAverage\CalAverage\bin\Debug\CalAverage.pdb
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.csprojResolveAssemblyReference.cache
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.FrmCalAverage.resources
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.Properties.Resources.resources
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.csproj.GenerateResource.Cache
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.csproj.CoreCompileInputs.cache
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.exe
+F:\WS6Programs\CalAverage\CalAverage\obj\Debug\CalAverage.pdb

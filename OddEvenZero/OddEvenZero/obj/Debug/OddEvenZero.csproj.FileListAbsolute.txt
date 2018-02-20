@@ -1,0 +1,10 @@
+F:\WS6Programs\OddEvenZero\OddEvenZero\bin\Debug\OddEvenZero.exe.config
+F:\WS6Programs\OddEvenZero\OddEvenZero\bin\Debug\OddEvenZero.exe
+F:\WS6Programs\OddEvenZero\OddEvenZero\bin\Debug\OddEvenZero.pdb
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.csprojResolveAssemblyReference.cache
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.FrmOddEvenZero.resources
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.Properties.Resources.resources
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.csproj.GenerateResource.Cache
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.csproj.CoreCompileInputs.cache
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.exe
+F:\WS6Programs\OddEvenZero\OddEvenZero\obj\Debug\OddEvenZero.pdb
